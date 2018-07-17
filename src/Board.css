@@ -1,0 +1,11 @@
+.Board-row {
+  display: flex;
+}
+
+.Board-row > :not(:first-child) {
+  margin-left: 10px;
+}
+
+.Board-row:not(:first-child) {
+  margin-top: 10px;
+}

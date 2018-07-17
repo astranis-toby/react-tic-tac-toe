@@ -1,0 +1,16 @@
+.Square {
+  width: 100px;
+  height: 100px;
+  background: #DFDFDF;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: #000000;
+  font-size: 64px;
+  font-family: "Roboto Slab";
+}
+
+.Square-label {
+  pointer-events: none;
+  -webkit-user-select: none;
+}
