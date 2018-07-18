@@ -8,5 +8,10 @@
 }
 
 .Game-status {
+  margin-top: 10px;
   font-size: 16px;
+}
+
+.Game-reset {
+  margin-top: 20px;
 }
